@@ -1,16 +1,40 @@
-### Hi there 👋
+## Olá, eu sou o Gabriel Henrique
 
-<!--
-**Gavruel/Gavruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudando para me tornar um **Desenvolvedor**.
+- Me aprimorando em **BackEnd**.
+- Estudando **Java**, **python**, **Linux** e **Docker**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Gavruel">
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gavruel&theme=tokyonight&show_icons=true&hide_title=false" />
+	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavruel&theme=tokyonight&layout=compact&hide_title=true" />
+</div>
+  
+<br>
+
+##
+  
+<br>
+
+  
+-  `Python`: **Pandas**, **Sklearn** and **Matplotlib**.
+-  `Java`: **Spring**, **JPA** and **JDBC**;
+-  `Linux`: **Ubuntu**, **Debian** and **Mint**;
+-  `DataBases`: **OracleSQL**, **MySQL** and **MariaDB**;
+- **Docker** e **Docker-Composes**;
+  
+
+
+
+
+
+
+
+
