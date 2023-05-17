@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/Gavruel">
-	<img height="130em" src="https://github-readme-stats.vercel.app/api?username=Gavruel&theme=tokyonight&show_icons=true&hide_title=false" />
+	<img height="130em" src="https://github-readme-stats.vercel.app/api?username=Gavruel&theme=tokyonight&show_icons=true&hide_title=true" />
 	<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavruel&theme=tokyonight&layout=compact&hide_title=true" />
 </div>
   
