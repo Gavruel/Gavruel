@@ -2,18 +2,18 @@
 
 - Estudando para me tornar um **Desenvolvedor**.
 - Me aprimorando em **BackEnd**.
-- Estudando **Java**, **Python**, **MySQL**, **Linux** e **Docker**.
+- Estudando **c#**, **Python**, **MySQL**, **Linux** e **Docker**.
 - Você pode me chamar ou pelo meu **<a href="https://www.linkedin.com/in/gabriel-henriquedev">LinkedIn</a>**, ou pelo meu e-mail `gabrielh.gh963@gmail.com`.
 
 <br>
 
 ### Minhas proficiências
  
--  `Python`: **Pandas**, **Sklearn** and **Matplotlib**.
--  `Java`: **Spring**, **JPA** and **JDBC**.
--  `Linux`: **Ubuntu**, **Debian** and **Mint**.
--  `DataBases`: **OracleSQL**, **MySQL** and **MariaDB**.
-- **Docker** e **Docker-Composes**.
+-  **`Python`**;
+-  **`C#`**;
+-  **`Linux`**;
+-  **`OracleSQL`**;
+-  **`Docker`** e **`Docker-Composes`**.
 
 <br>
 
