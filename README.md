@@ -2,7 +2,7 @@
 
 - Estudando para me tornar um **Desenvolvedor**.
 - Me aprimorando em **BackEnd**.
-- Estudando **c#**, **Python**, **MySQL**, **Linux** e **Docker**.
+- Estudando **C#**, **Python**, **SQL**, **Linux** e **Docker**.
 - Você pode me chamar ou pelo meu **<a href="https://www.linkedin.com/in/gabriel-henriquedev">LinkedIn</a>**, ou pelo meu e-mail `gabrielh.gh963@gmail.com`.
 
 <br>
