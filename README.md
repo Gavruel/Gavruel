@@ -62,3 +62,10 @@ I'm a **Backend Developer** focused on building robust and scalable systems. Cur
 </a>
 
 ---
+
+<div align="center">
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api?username=Gavruel&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=1800" />
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavruel&layout=compact&theme=tokyonight&hide_title=true&cache_seconds=1800" />
+</div>
